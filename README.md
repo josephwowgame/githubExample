@@ -1,2 +1,3 @@
 # githubExample
 example for beginner, i need friends...
+read some codes from here.
